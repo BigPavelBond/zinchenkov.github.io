@@ -81,11 +81,16 @@ body,html{
 	    z-index: 3;
 	}
 }
-
-
+@media (min-width: 767px) and (max-width:1900px) {
+	p {
+    	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	}
+}
 	body,html {
 		overflow-x: hidden;
 	}
-	p {
+	/*p {
 		font-family: Answe;
-	}
+	}*/
+
+}
