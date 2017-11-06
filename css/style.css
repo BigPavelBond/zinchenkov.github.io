@@ -83,6 +83,9 @@ body,html{
 }
 
 
-body,html {
-	overflow-x: hidden;
-}
+	body,html {
+		overflow-x: hidden;
+	}
+	p {
+		font-family: Answe;
+	}
