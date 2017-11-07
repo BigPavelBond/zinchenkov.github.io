@@ -3,7 +3,7 @@ body,html{
 	font-family: Answe;
     	 }  
 	p {
-		font-family: Answe;
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
 	}
 	.banner-bg{
 	    padding: 260px 80px;
@@ -59,9 +59,9 @@ body,html{
 	.slick-current {
 		outline: none;
 	}
-	p {
+	/*p {
 		font-family: Answe;
-	}
+	}*/
 	.banner-bg{
 	    padding: 260px 80px;
 	    position: relative;
@@ -86,11 +86,15 @@ body,html{
     	font-family: "Comic Sans MS", "Comic Sans", cursive;
 	}
 }
+@media (min-width:1900px) {
+	p {
+    	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	}
+}
 	body,html {
 		overflow-x: hidden;
 	}
 	/*p {
 		font-family: Answe;
 	}*/
-
 }
