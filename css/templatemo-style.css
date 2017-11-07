@@ -60,8 +60,8 @@ h1, h2, h3, h4, h5{color:#555555;}
 ::-moz-placeholder{color:#999999;}
 :-ms-input-placeholder{color:#999999;}
 .main-content,
-.banner-bg{float:right;width:70%;}
- screen and (max-width:1290px){.main-content,
+.banner-bg{float:right;width:77%;}
+@media screen and (max-width:1290px){.main-content,
 .banner-bg{width:70%;}
 }
 @media screen and (max-width:992px){.main-content,
