@@ -1,7 +1,7 @@
 @media screen and (max-width: 30.6em){ 
-body,html{
+/*body,html{
 	font-family: Answe;
-    	 }  
+    	 }  */
 	p {
 		font-family: "Comic Sans MS", "Comic Sans", cursive;
 	}
@@ -62,6 +62,9 @@ body,html{
 	/*p {
 		font-family: Answe;
 	}*/
+	p {
+    	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	}
 	.banner-bg{
 	    padding: 260px 80px;
 	    position: relative;
